@@ -22,7 +22,16 @@ Enter a radius: 5
 Enter a height: 10
 
 The volume of a cylinder is 785.4.
-The volume of a cone is 261.8.
+The volume of a codef date_fashion(you, date):
+
+    if you >= 8 or date >= 8:
+        return("2")
+
+    elif you <= 2 or date <= 2:
+        return("0")
+
+    else:
+        return("1")ne is 261.8.
 The volume of a sphere is 523.59878.
 ```
 
