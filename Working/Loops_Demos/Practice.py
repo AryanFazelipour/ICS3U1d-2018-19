@@ -1,6 +1,3 @@
-
-"""
-
 def count_back():
     """
     Countdown from 20 to 1
@@ -24,6 +21,3 @@ def km_to_miles():
         print(i, " --->", round(i *0.621, 2), "miles")
 
 km_to_miles()
-"""
-
->>> "Hello {0} {1}, you may have won ${2}".format("Mr.","Smith",1000)
