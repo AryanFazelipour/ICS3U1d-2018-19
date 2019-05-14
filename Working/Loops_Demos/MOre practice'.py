@@ -4,4 +4,4 @@ def vowel_count():
 
     for i in range(len(word)):
         if word[i] in vowel:
-            
+

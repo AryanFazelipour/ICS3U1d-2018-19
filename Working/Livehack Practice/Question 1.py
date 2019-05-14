@@ -13,7 +13,7 @@ print("**** Ounces to Grams Converter ****")
 print("This program will print out a titled table that can be used to covert ounces to grams, for values from 1 to 15 ounces (1 ounce = 28.35 grams)")
 
 # Table header
-print("{0:>15} {01:>20}".format("Ounces" , "Grams"))
+print("{0:>15} {01:>20}".format("Ounces", "Grams"))
 
 #Convert Ounces to pounds
 total = 1
